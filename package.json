@@ -1,0 +1,22 @@
+{
+  "name": "videos",
+  "version": "1.0.0",
+  "description": "similar to youtube",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "shubham goyal",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
